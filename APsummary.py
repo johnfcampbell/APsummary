@@ -1,7 +1,8 @@
 def getSummaryFields(summaryString):
     #
     # input string includes an HTML table.
-    # excess text before the table is stripped off.
+    # any excess text before the table is stripped off.
+    # text after the last table row should be ignored.
     #
     # return a hash:
     #   key value is the first column of the table

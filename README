@@ -1,4 +1,6 @@
 # Created for collecting AP Exchange stories, but the general idea is to convert 
 # an HTML table into a Python hash.
+# The AP exchange stories include body text, followed by a summary in table format.
+# This includes metadata such as byline, dateline, headline, category.
 # First deployed at the Courier-Post, Cherry Hill, NJ
 
